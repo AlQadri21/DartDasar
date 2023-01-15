@@ -17,7 +17,7 @@ void sayHello({String? firstName, String? lastName}) {
 
 void main() {
   sayHello(firstName: 'Muhammad', lastName: 'Qadri');
-  sayHello(lastName: 'Sugianto', firstName: 'Neria');
+  sayHello(lastName: 'Al', firstName: 'Qadri');
   sayHello();
   sayHello(firstName: 'Muhammad');
   sayHello(lastName: 'Qadri');
